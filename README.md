@@ -2,3 +2,5 @@
  Primeiro repositório do Curso de Git e GitHub
 
 Repositório criado durante uma aula ao vivo do Guanabara
+
+Essa linhas eu adicionei diretamente no site!
