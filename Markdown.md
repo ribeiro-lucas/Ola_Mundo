@@ -5,7 +5,7 @@
 ### Título 3
 ---
 **Negrito**
-*Itálico
+*Itálico*
 ~~Riscado~~
 
 Lista numerada:
